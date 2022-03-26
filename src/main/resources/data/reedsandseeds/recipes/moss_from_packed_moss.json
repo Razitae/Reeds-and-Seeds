@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "reedsandseeds:packed_moss"
+    }
+  ],
+  "result": {
+    "item": "minecraft:moss_block",
+    "count": 4
+  }
+}

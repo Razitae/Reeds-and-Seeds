@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MM",
+    "MM"
+  ],
+  "key": {
+    "M": {
+      "item": "reedsandseeds:packed_moss"
+    }
+  },
+  "result": {
+    "item": "reedsandseeds:moss_bricks",
+    "count": 4
+  }
+}
